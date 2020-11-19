@@ -1,7 +1,7 @@
 # ENGN3230_Prototype
 _SeatMap product prototype for ENGN3230_
 
-![Image of prototype](/Circuit_Diagram.png "Image of completed prototype unit")
+<img src=Circuit_Diagram.png width=400 height=400 />
 
 The aim of this prototype is to provide a proof-of-concept for a system which can sense and record the number of passengers who use a particular seat on a public transit vehicle (e.g. bus or train carriage). This is a potentially useful product for controlling passenger dispersion within public transport vehicles and thus limiting the spread of infectious diseases, such as COVID-19 (which is contractible through contact with infected surfaces). The physical prototype makes use of a force sensitive resistor (FSR), an arduino UNO board, cathode LED, and piezo buzzer. 
 
