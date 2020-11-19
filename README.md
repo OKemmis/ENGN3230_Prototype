@@ -8,4 +8,5 @@ The aim of this prototype is to provide a proof-of-concept for a system which ca
 Initially, the cathode is set to green, indicating that passengers are permitted to use the seat. The FSR sensor unit, mounted on the seat cushion, senses and records the number of times an occupant uses the seat. Passengers sitting and standing are recognised events. When a threshold for the number of discrete seat occupants is met, the cathode is set to red and further attempts to sit will elicit an audible alarm to sound (via the piezo buzzer). This threshold for seat occupants can be set in software. Further attempts to sit will also increment the seat counter variable, enabling the public transport service provider access to this potentially useful metric. 
 
 [link to video of working prototype](https://photos.app.goo.gl/iWiJpsDxKqPTW4nDA)
+
 [link to video of working prototype (YouTube)](https://youtu.be/z3oedwZhUuU)
